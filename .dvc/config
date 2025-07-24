@@ -1,0 +1,4 @@
+[core]
+    remote = myremote2
+['remote "myremote2"']
+    url = C:\Users\pc\AppData\Local\Temp\dvc-storage-03
